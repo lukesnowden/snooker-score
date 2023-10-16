@@ -43,11 +43,11 @@
                 <button @click="add(3)" class="w-full h-16 bg-green-600 rounded-lg flex items-center justify-center">
                     <span class="text-lg text-white">3</span>
                 </button>
-                <button @click="add(2)" class="w-full h-16 bg-yellow-900 rounded-lg flex items-center justify-center">
-                    <span class="text-lg text-white">2</span>
-                </button>
-                <button @click="add(4)" class="w-full h-16 bg-yellow-400 rounded-lg flex items-center justify-center">
+                <button @click="add(4)" class="w-full h-16 bg-yellow-900 rounded-lg flex items-center justify-center">
                     <span class="text-lg text-white">4</span>
+                </button>
+                <button @click="add(2)" class="w-full h-16 bg-yellow-400 rounded-lg flex items-center justify-center">
+                    <span class="text-lg text-white">2</span>
                 </button>
                 <div></div>
             </div>
